@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RatanKokal
-- 👀 I’m interested in Competitive Programming, Web developement, image detection technology
+- 👀 I’m interested in Competitive Programming, Cybersecurity ,Image detection technology
 - 🌱 I’m currently learning Data Structures and Algorithms
 
 <!---
