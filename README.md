@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @RatanKokal
-- 👀 I’m interested in Competitive Programming, Cybersecurity ,Image detection technology
-- 🌱 I’m currently learning Data Structures and Algorithms
 
 <!---
 RatanKokal/RatanKokal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
